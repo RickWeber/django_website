@@ -18,7 +18,7 @@ portfolio of projects.
 ## What's next?
 This project is, at least for now, going to turn into a dumping ground for my
 projects, at least my 2022 projects. I'll revamp [Wordle
-Search](https://github.com/RickWeber/world_search) as an exercise in making a
+Search](https://github.com/RickWeber/wordle_search) as an exercise in making a
 Django API, and while I'm at it, I might even mess around with the front end a
 bit. 
 
